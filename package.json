@@ -1,0 +1,9 @@
+{
+  "name": "swing-exp",
+  "version": "1.0.0",
+  "description": "Match strings expressively",
+  "main": "swing-exp.js",
+  "keywords": ["swing", "expression", "switch", "break", "match", "select"],
+  "author": "Valentijn Baakman",
+  "license": "MIT"
+}
