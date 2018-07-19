@@ -2,6 +2,11 @@
 
 An alternative for the switch statement that can be used expressively. Can only be used to match Strings. Other values will be converted to String.
 
+Install using npm:
+```shell
+$ npm i swing-exp
+```
+
 The swing function always takes two arguments:
 - The value to be matched
 - An object defining the cases
