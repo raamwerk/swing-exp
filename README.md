@@ -18,7 +18,7 @@ console.log(swing(value, {
 // => Hello
 ```
 
-Define a default case to use when there's no match.
+Define a default case to use when there's no match:
 
 ```javascript
 const swing = require('swing-exp')
@@ -33,7 +33,7 @@ console.log(swing(value, {
 // => Pineapple
 ```
 
-Execute (blocks of) statements by providing case methods.
+Execute (blocks of) statements by providing case methods and calling the return value:
 
 ```javascript
 const swing = require('swing-exp')
@@ -47,7 +47,7 @@ swing(value, {
   bar () {
     console.log('Goodbye')
   }
-})()
+})() // note the parentheses
 
 // => Hello
 ```
