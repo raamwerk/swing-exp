@@ -5,5 +5,9 @@
   "main": "swing-exp.js",
   "keywords": ["swing", "expression", "switch", "break", "match", "select"],
   "author": "Valentijn Baakman",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raamwerk/swing-exp.git"
+  }
 }
